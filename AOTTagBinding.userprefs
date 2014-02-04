@@ -1,0 +1,15 @@
+﻿<Properties GitUserInfo="UsingGIT">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="AOTTag/ApiDefinition.cs">
+    <Files>
+      <File FileName="AOTTag/ApiDefinition.cs" Line="7" Column="24" />
+      <File FileName="AOTTag/libLogger.linkwith.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../Documents/Tutti progetti/NPlus1DaysOfMvvmCross-master/N-06-Books/Book.Core/Services/SimpleRestService.cs" line="86" offsetX="672" offsetY="1360" expression="T" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+</Properties>
