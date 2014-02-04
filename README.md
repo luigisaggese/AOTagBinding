@@ -1,7 +1,7 @@
 AOTagBinding
 ============
 
-Binding of  Appsido AOTag
+Binding of Appsido AOTag for Xamarin iOS
 
 (From AppSido)
 #AOTag - simple tag implementation
